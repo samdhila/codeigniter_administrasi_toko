@@ -20,7 +20,8 @@ Brand, Warna, Satuan Unit, Promo, Supplier, Customer, Produk, Kantor, Outlet, da
 ## Live Demo
 Untuk demo percobaan aplikasi **CodeIgniter Sistem Administrasi Toko**, bisa dilakukan pada
 [URL Live Demo](https://toko.samreact.my.id/) ini.\
-![Demo Administrasi Toko GIF](./preview/demo_toko.gif)
+![Demo Administrasi Toko #01 GIF](https://github.com/samdhila/media/blob/main/codeigniter/ci01-optimized.gif)
+![Demo Administrasi Toko #02 GIF](https://github.com/samdhila/media/blob/main/codeigniter/ci02-optimized.gif)
 
 **Credential Admin (DEMO)**:\
 admin\
