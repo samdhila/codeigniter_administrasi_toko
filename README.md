@@ -1,5 +1,17 @@
 # CodeIgniter Sistem Administrasi Toko
 
+# Table of Contents
+
+- [CodeIgniter Sistem Administrasi Toko](#codeigniter-sistem-administrasi-toko)
+  - [Deskripsi Sistem](#deskripsi-sistem)
+  - [Detail Sistem](#detail-sistem)
+  - [Alur Sistem](#alur-sistem)
+  - [Live Demo](#live-demo)
+  - [Setup Project](#setup-project)
+    - [Pre-requirements](#pre-requirements)
+    - [Local Installation](#local-installation)
+
+
 ## Deskripsi Sistem
 **Sistem Administrasi Toko** adalah platform yang dirancang dengan menggunakan **CodeIgniter (CI)** untuk mengelola data toko secara efisien dan terstruktur. Sistem ini mencakup berbagai fitur yang memudahkan pengguna dalam memanipulasi dan memantau data toko.
 
